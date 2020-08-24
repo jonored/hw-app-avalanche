@@ -50,6 +50,7 @@
     "clean": "bash script/clean.sh",
     "build": "bash script/build.sh",
     "prepare": "bash script/build.sh",
+    "prepack": "bash script/build.sh",
     "watch": "bash script/watch.sh",
     "doc": "bash script/doc.sh"
   },
